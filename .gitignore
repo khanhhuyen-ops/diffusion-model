@@ -1,0 +1,6 @@
+data/
+diffusion_model_cifar10.pth
+output_result.png
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
